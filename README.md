@@ -10,7 +10,7 @@
   * [Run with no backend](#run-with-no-backend)
   * [Run with Haystack server](#run-with-haystack-server)
 
-## Haystack-dropwizard
+## Spring-Cloud-Sleuth-Haystack-Reporter
 
 In this example, the two Spring Sleuth services call one from another to show a client and server working with tracing instrumentation. Telemetry from this application is recorded in [Haystack](http://expediadotcom.github.io/haystack/) server, a distributed tracing system. Haystack will allow one to see the service call dependency and how long it took for the whole operation to complete. Here is what a sample output in the UI will look like: 
 
