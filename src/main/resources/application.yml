@@ -8,6 +8,7 @@ spring:
     enabled: true
     haystack:
       enabled: true
+      idformat: string
       client:
         grpc:
           host: localhost
