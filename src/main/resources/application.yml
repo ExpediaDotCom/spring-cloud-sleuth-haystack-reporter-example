@@ -8,6 +8,7 @@ spring:
     enabled: true
     haystack:
       enabled: true
+      idformat: uuid
       client:
         grpc:
           host: localhost
