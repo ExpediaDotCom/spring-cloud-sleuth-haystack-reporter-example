@@ -15,7 +15,7 @@
     </licenses>
 
     <properties>
-        <spring-boot.version>2.1.2.RELEASE</spring-boot.version>
+        <spring-boot.version>2.5.12</spring-boot.version>
         <io-micrometer.version>1.1.1</io-micrometer.version>
         <spring-sleuth.version>2.1.0.RELEASE</spring-sleuth.version>
         <spring.cloud.sleuth.haystack.reporter.version>0.1.1</spring.cloud.sleuth.haystack.reporter.version>
